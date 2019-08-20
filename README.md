@@ -1,2 +1,5 @@
 # hello-world
-Just trying it out
+
+Hey,
+
+Really just trying to see what's up with Git and GitHub.
